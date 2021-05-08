@@ -9,11 +9,7 @@ responsabilities and  made it easier to maintain the code.
 
 <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fff7c8a12-50d1-4a20-a680-9085d0bd6823%2Fexample.png?table=block&id=641fa56e-763e-48f3-8a2b-1bf93007de1b&width=1250&userId=&cache=v2">
 
-In this challenge we built an to-do app called to.do, with no data persistence, wich permits: 
-1. Create a to-do activity 
-2. Delete a to-do 
-3. Finish a to-do 
-4. Unfinish a to-do concluded
+In this challenge i made a refactor the application called WatchMe, wich list films according to his gender, to isolate the code, who is in monolithic format, in separated components.
 
 # Running this project
 
